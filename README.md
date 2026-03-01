@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Anuj Kumar
 
-<!--
-**anujkumar2006/anujkumar2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Fresher Software Developer
+------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🎓 Passionate about Software Development\
+-   💡 Love building real-world projects\
+-   🌱 Currently improving my skills in Java, Python & Web Development\
+-   🎯 Goal: To become a skilled Full-Stack Developer\
+-   🤝 Open to Internship & Collaboration Opportunities
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+-   Java\
+-   Python\
+-   C++
+
+### 🌐 Web Development
+
+-   HTML\
+-   CSS\
+-   JavaScript\
+-   React (Basic)
+
+### 🗄️ Database
+
+-   MySQL
+
+### ⚙️ Tools & Technologies
+
+-   Git & GitHub\
+-   VS Code\
+-   IntelliJ IDEA\
+-   Postman
+
+------------------------------------------------------------------------
+
+## 📂 Projects
+
+-   📌 **Student Record Management System**\
+    → Developed using Python & File Handling
+
+-   📌 **Java Spring Boot API Project**\
+    → REST API with CRUD operations
+
+-   📌 **Portfolio Website**\
+    → Responsive personal website using HTML, CSS & JS
+
+------------------------------------------------------------------------
+
+## 📫 Connect With Me
+
+-   💼 LinkedIn: Add your LinkedIn profile link\
+-   📧 Email: Add your professional email
+
+------------------------------------------------------------------------
+
+### 🔥 Motto
+
+> Code. Learn. Improve. Repeat.
